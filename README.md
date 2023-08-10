@@ -1,5 +1,4 @@
-# cogs108_ss1_23_group_05
-
+# EcoAgroMental-BMI-Analysis
 ### **Research Project:** Investigating the Impact of Economic Status, Agricultural Productivity, and Prevalence of Mental Illnesses on BMI at a National Level
 
 ### **Objective:**
